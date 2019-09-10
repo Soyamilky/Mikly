@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am soyamilky on github.
+  * I am soyamilky (https://keybase.io/soyamilky) on keybase.
+  * I have a public key ASCmEGMkmUU-W6Mnf6dJmH9-eEMZyoDFaXFS00ebFDJgdAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a610632499453e5ba3277fa749987f7e784319ca80c5697152d3479b143260740a",
+      "host": "keybase.io",
+      "kid": "0120a610632499453e5ba3277fa749987f7e784319ca80c5697152d3479b143260740a",
+      "uid": "8cc5417690a2de5b538774b82e5d5819",
+      "username": "soyamilky"
+    },
+    "merkle_root": {
+      "ctime": 1568112452,
+      "hash": "d270746ac0a3fc70f075e9ba3617e9f8d0d68f7ebed2ca7501def063cd7983e261dbf56cd9ef1ca4d37c49824efe9889158ce38734ae6ebe38ed82508b69e6b0",
+      "hash_meta": "95d942b6c8c2d7902ffeaba507b9f833da83a9fadbefde2d0b4894704c944760",
+      "seqno": 6378914
+    },
+    "service": {
+      "entropy": "PIJoiAxeg6XO/1YxxV8xpRgU",
+      "name": "github",
+      "username": "soyamilky"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568112456,
+  "expire_in": 504576000,
+  "prev": "d6a6cf4a9477ef651efa755a0d3ca0e6646a692c398caf02b51046ac48eb43db",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASCmEGMkmUU-W6Mnf6dJmH9-eEMZyoDFaXFS00ebFDJgdAo](https://keybase.io/soyamilky), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgphBjJJlFPlujJ3+nSZh/fnhDGcqAxWlxUtNHmxQyYHQKp3BheWxvYWTESpcCC8Qg1qbPSpR372Ue+nVaDTyg5mRqaSw5jK8CtRBGrEjrQ9vEILHCkNCFN4ZUE6u8lY0gU/FaAwUuv8ktipZ3NmxIyNygAgHCo3NpZ8RARIVDrYrMyPF2I7p1reyFvR8pQdxKkW/SsDhVsWAjnXMMcYcq1oeTRUobuaiDGATNHF2tyrp3JNWoxH5NBfKXB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM7FEzk1ma4Om1MwgW5mYPXtyk1qSbNYfLA1c1/P/EIXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/soyamilky
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id soyamilky
+```
